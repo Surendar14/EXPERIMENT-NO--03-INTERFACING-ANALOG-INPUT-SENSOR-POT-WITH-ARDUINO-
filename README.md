@@ -101,7 +101,8 @@ void loop()
 
 
 
-**FIGURE 02 **
+**FIGURE 02:**
+
 <img width="454" alt="Screenshot 2022-11-02 092210" src="https://user-images.githubusercontent.com/75235759/199392447-9e4f4473-8f86-41d7-bedf-da7938155a21.png">
 
 
